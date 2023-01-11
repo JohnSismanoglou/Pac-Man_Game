@@ -1,6 +1,6 @@
 # Pac-Man
 
-A recreation of the classic arcade video game Pac-Man, made in Python using the pygame library. <br>
+A re-creation of the classic arcade video game Pac-Man, made in Python using the pygame library. <br>
 To start the game just run **main.py** from your code editor.
 
 # Install Dependencies
