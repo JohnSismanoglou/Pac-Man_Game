@@ -41,6 +41,6 @@ pip install pygame
 - **eat_ghost.wav**: This sound plays when you eat a ghost.
 - **game_start.wav**: This sound plays when you start the game.
 - **intermission.wav**: This sound plays when you beat a level.
-- **munch_1.wav**: This sound plays interchangably with munch_2.wav whenever you eat a tictac.
+- **munch_1.wav**: This sound plays interchangably with munch_2.wav when you eat a tictac.
 - **munch_2.wav**: See munch_1.wav.
 - **power_pellet.wav**: This sound plays when you eat a special tictac.
